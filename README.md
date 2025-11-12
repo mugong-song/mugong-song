@@ -1,17 +1,16 @@
-## Hi there 👋
 
 <div style="display: flex; flex-direction: column; gap: 1rem;">
   <div style="display: flex; justify-content: space-between; align-items: center;">
-    <h1>Hello! I'm Mumu 👋</h1>
+    <h1>Hello! I'm Mumu </h1>
     <img src="https://img.shields.io/badge/Go-333333?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
   </div>
   <p>A Go backend developer specializing in high-performance and high-concurrency solutions.</p>
-  <p>🚀 Committed to building stable and scalable distributed systems.</p>
+  <p> Committed to building stable and scalable distributed systems.</p>
 </div>
 
 ---
 
-### 🛠️ My Tech Stack
+###  My Tech Stack
 
 <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; justify-content: center; margin-top: 1rem;">
   <div style="text-align: center;">
@@ -45,7 +44,7 @@
 
 ---
 
-### 📈 My GitHub Stats
+###  My GitHub Stats
 
 <div style="display: flex; flex-direction: row; gap: 1rem; justify-content: center; margin-top: 1rem;">
   <img src="https://github-readme-stats.vercel.app/api?username=mugong-song&show_icons=true&theme=vue&hide_border=true&locale=en" 
@@ -58,7 +57,7 @@
 
 ---
 
-### 💬 Connect
+###  Connect
 
 <div style="display: flex; justify-content: center; gap: 1rem; margin-top: 1rem;">
   <a href="mailto:1293589405@qq.com">
