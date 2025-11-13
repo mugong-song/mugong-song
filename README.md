@@ -51,18 +51,28 @@
 
 ---
 
-###  My GitHub Stats
 
-<div style="display: flex; flex-direction: row; gap: 1rem; justify-content: center; margin-top: 1rem;">
-  <img src="https://github-readme-stats.vercel.app/api?username=mugong-song&show_icons=true&theme=vue&hide_border=true&locale=en" 
-       alt="GitHub Stats" 
-       width="300"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mugong-song&layout=compact&theme=vue&hide_border=true&locale=en"
-       alt="Top Languages"
-       width="300"/>
-</div>
+[//]: # (###  My GitHub Stats)
 
----
+[//]: # ()
+[//]: # (<div style="display: flex; flex-direction: row; gap: 1rem; justify-content: center; margin-top: 1rem;">)
+
+[//]: # (  <img src="https://github-readme-stats.vercel.app/api?username=mugong-song&show_icons=true&theme=vue&hide_border=true&locale=en" )
+
+[//]: # (       alt="GitHub Stats" )
+
+[//]: # (       width="300"/>)
+
+[//]: # (  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mugong-song&layout=compact&theme=vue&hide_border=true&locale=en")
+
+[//]: # (       alt="Top Languages")
+
+[//]: # (       width="300"/>)
+
+[//]: # (</div>)
+
+[//]: # ()
+[//]: # (--- )
 
 ###  Connect
 
