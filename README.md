@@ -44,7 +44,7 @@
     </a>
     <a href="https://grpc.io/" target="_blank"><img src="https://img.shields.io/badge/gRPC-244957?style=for-the-badge&logo=grpc&logoColor=white" alt="gRPC" /></a>
 <a href="https://developers.google.com/protocol-buffers" target="_blank"><img src="https://img.shields.io/badge/Protobuf-5A5D86?style=for-the-badge&logo=protobuf&logoColor=white" alt="Protobuf" /></a>
-    <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>
+
 <a href="https://gorm.io/" target="_blank"><img src="https://img.shields.io/badge/GORM-648C8C?style=for-the-badge&logo=gopher&logoColor=white" alt="GORM" /></a>
     <a href="https://prometheus.io/" target="_blank"><img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" /></a>
 <a href="https://grafana.com/" target="_blank"><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" /></a>
