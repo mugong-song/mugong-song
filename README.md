@@ -2,15 +2,16 @@
 <div style="display: flex; flex-direction: column; gap: 1rem;">
   <div style="display: flex; justify-content: space-between; align-items: center;">
     <h1>Hello! I'm Mumu </h1>
-    <img src="https://img.shields.io/badge/Go-333333?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-    <a href="https://www.java.com" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" /></a>
-<a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
-<a href="https://www.iso.org/standard/74528.html" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" /></a>
-  </div>
+      </div>
   <p>A Go backend developer specializing in high-performance and high-concurrency solutions.</p>
   <p> Committed to building stable and scalable distributed systems.</p>
 </div>
+    <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Go-333333?style=for-the-badge&logo=go&logoColor=white" alt="Go" /></a>
+    <a href="https://www.java.com" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" /></a>
+<a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
+<a href="https://www.iso.org/standard/74528.html" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" /></a>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Go+backend+developer+;Distributed+systems+engineer;High-performance+backend+engineer" alt="Typing SVG" /></a>
 ---
 
 ###  My Tech Stack
