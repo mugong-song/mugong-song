@@ -1,10 +1,13 @@
 
-<div style="display: flex; flex-direction: column; gap: 1rem;">
+<!-- <div style="display: flex; flex-direction: column; gap: 1rem;"> -->
   <div style="display: flex; justify-content: space-between; align-items: center;">
+    <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Hello!+I'm+Mumu" alt="Typing SVG" /></a> -->
     <h1>Hello! I'm Mumu </h1>
-      </div>
-  <p>A Go backend developer specializing in high-performance and high-concurrency solutions.</p>
-  <p>Committed to building stable and scalable distributed systems.</p>
+  
+   
+A Go backend developer specializing in high-performance and high-concurrency solutions.
+
+  <p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Committed+to+building+stable+;+Scalable+distributed+systems." alt="Typing SVG" /></a></p>
 </div>
     <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Go-333333?style=for-the-badge&logo=go&logoColor=white" alt="Go" /></a>
     <a href="https://www.java.com" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" /></a>
