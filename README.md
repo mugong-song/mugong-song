@@ -1,4 +1,8 @@
 
+----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mugong-song/mugong-song/main/gopher.png" alt="gopher" width="150">
+</p>
 <!-- <div style="display: flex; flex-direction: column; gap: 1rem;"> -->
   <div style="display: flex; justify-content: space-between; align-items: center;">
     <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Hello!+I'm+Mumu" alt="Typing SVG" /></a> -->
