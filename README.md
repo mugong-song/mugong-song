@@ -90,7 +90,7 @@ A Go backend developer specializing in high-performance and high-concurrency sol
   <a href="mailto:tomsfamily01@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://mugong-song.github.io/blog/" target="_blank">
+  <a href="https://blog.q-song.top/" target="_blank">
     <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=medium&logoColor=white" alt="Blog" />
   </a>
 </div>
