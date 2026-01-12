@@ -20,7 +20,7 @@ A Go backend developer specializing in high-performance and high-concurrency sol
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Go+backend+developer+;Distributed+systems+engineer;High-performance+backend+engineer" alt="Typing SVG" /></a>
 ---
     
-###  My Tech Stack
+###  My Tech Stack 
 
 <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; justify-content: center; margin-top: 1rem;">
   <div style="text-align: center;">
