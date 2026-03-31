@@ -64,8 +64,15 @@ A Go backend developer specializing in high-performance and high-concurrency sol
 
 </div>
 
----
 
+---
+<h4>Configuration & Logging</h4>
+  <a href="https://github.com/spf13/viper" target="_blank">
+    <img src="https://img.shields.io/badge/Viper-5A5D86?style=for-the-badge&logo=go&logoColor=white" alt="Viper" />
+  </a>
+  <a href="https://github.com/uber-go/zap" target="_blank">
+    <img src="https://img.shields.io/badge/Zap-00ADD8?style=for-the-badge&logo=uber&logoColor=white" alt="Zap" />
+  </a>
 
 [//]: # (###  My GitHub Stats)
 
