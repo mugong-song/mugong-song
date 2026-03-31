@@ -51,7 +51,9 @@ A Go backend developer specializing in high-performance and high-concurrency sol
     </a>
     <a href="https://grpc.io/" target="_blank"><img src="https://img.shields.io/badge/gRPC-244957?style=for-the-badge&logo=grpc&logoColor=white" alt="gRPC" /></a>
 <a href="https://developers.google.com/protocol-buffers" target="_blank"><img src="https://img.shields.io/badge/Protobuf-5A5D86?style=for-the-badge&logo=protobuf&logoColor=white" alt="Protobuf" /></a>
-
+<a href="https://gin-gonic.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=gin&logoColor=white" alt="Gin" />
+</a>
 <a href="https://gorm.io/" target="_blank"><img src="https://img.shields.io/badge/GORM-648C8C?style=for-the-badge&logo=gopher&logoColor=white" alt="GORM" /></a>
     <a href="https://prometheus.io/" target="_blank"><img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" /></a>
 <a href="https://grafana.com/" target="_blank"><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" /></a>
